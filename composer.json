@@ -1,0 +1,24 @@
+{
+    "name": "schooltwist/validations",
+    "description": "Tools to help run thing, specifically around error checking",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JJBigThoughts",
+            "email": "jj.php@rohrer.org"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    },
+    "autoload": {
+        "psr-4": {"SchoolTwist\\Validations\\": "src"}
+    },
+    "config": {
+        "sort-packages": true
+    }
+
+}
