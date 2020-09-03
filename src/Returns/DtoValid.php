@@ -1,5 +1,5 @@
 <?php
-namespace SchoolTwist\Validations\Returns;
+namespace ElegantTechnologies\Validations\Returns;
 
 
 class DtoValid
